@@ -1,0 +1,161 @@
+#t1
+{
+background-image:url("../image/graphic girl.jpg");
+background-size:100% 100%;
+border-radius:20%;
+
+}
+body
+{
+	background-color:#999966;
+}
+#t2
+{
+	text-align:center;
+	font-family:freestyle script;
+	color: red;
+}
+#t3
+{
+	background-image:url("../image/annu pic.jpg");
+	background-size:100% 100%;
+	border-radius:50%;
+}
+#t4
+{
+	text-align:center;
+	font-size:20px;
+	font-weight:bold;
+	color:white;
+	font-family: 'Montserrat', sans-serif;
+	
+	
+}
+#t5
+{
+	text-align:center;
+	font-size:20;
+	color:#d9d9d9;
+	color:red;
+	font-family:freestyle script;
+
+}
+div {
+  width: 100px;
+  padding: 5px;
+  border: 5px solid black;
+  margin: 0;
+}
+
+#t7
+{
+	text-align:center;
+	color: #004d4d;
+	font-family:freestyle script;
+}
+.c1
+{
+	font-size:20;
+	
+	
+}
+#t9
+{
+	font-family:freestyle script;
+}
+
+#h1
+{
+	text-align:right;
+	font-family:freestyle script;
+	color:red;
+}
+
+.c2
+{
+     font-size:20;
+	 
+}
+#t11
+{
+	background-image:url("../image/happy.jpg");
+	border-radius:20%;
+}
+#t12
+{
+	
+     font-family:freestyle script;
+	 font-size:40;
+	 color: #004d4d;
+	 text-align:center;
+}
+	 
+#t13
+{
+    	
+	 font-family:freestyle script;
+	 color:red;
+	 text-align:center;
+	 font-size:40;
+}
+
+#t14
+{
+	 text-decoration: none;
+	 text-align:center;
+}
+#t15
+{
+	font-size:30;
+	background-color:#004d2e;
+	border-radius:10%;
+}
+
+
+#t16
+{
+	text-decoration:none;
+
+}
+
+#t17
+{
+	text-decoration:none;
+
+	
+
+
+}
+
+#t18
+{
+	font-size:30;
+	background-color:#004d2e;
+	border-radius:10%;
+
+
+}
+
+#t19
+{
+	text-align:center;
+}
+
+#t20
+{
+	text-align:center;
+	color:white;
+	font-size:20;
+}
+
+
+	 
+	 
+	 
+	 
+
+
+
+
+
+
