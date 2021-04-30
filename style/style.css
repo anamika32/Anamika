@@ -38,7 +38,7 @@ body
 	font-size:20;
 	color:#d9d9d9;
 	color:red;
-	font-family:freestyle script;
+	font-family: 'Caveat', cursive;
 
 }
 div {
@@ -52,7 +52,7 @@ div {
 {
 	text-align:center;
 	color: #004d4d;
-	font-family:freestyle script;
+	font-family: 'Caveat', cursive;
 }
 .c1
 {
@@ -62,13 +62,13 @@ div {
 }
 #t9
 {
-	font-family:freestyle script;
+	font-family: 'Caveat', cursive;
 }
 
 #h1
 {
 	text-align:right;
-	font-family:freestyle script;
+	font-family: 'Caveat', cursive;
 	color:red;
 }
 
@@ -85,7 +85,7 @@ div {
 #t12
 {
 	
-     font-family:freestyle script;
+     font-family: 'Caveat', cursive;
 	 font-size:40;
 	 color: #004d4d;
 	 text-align:center;
